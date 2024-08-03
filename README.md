@@ -1,6 +1,6 @@
 # Macktravis_assistant
-This application integrates AI models to provide interactive responses using a webcam and speech recognition. It's can handle user queries by analyzing images from the webcam and processing voice commands.
-It very slow with two models, but it works ! 😅 
+This application integrates AI models to provide interactive responses using a webcam and speech recognition. It can handle user queries by analyzing images from the webcam and processing voice commands.
+It's very slow with two models, but it works ! 😅 
 
 ## Features
 
